@@ -1,0 +1,12 @@
+title: Hello World
+description: >-
+  I am doing a CDF course in AI and ML.So need access to Github for pulling out
+  big data and running python programs on it.
+steps:
+  - course: githubtraining/introduction-to-github
+    description: The first step in your course
+  - link: 'https://lab.github.com'
+    title: Check out Learning Lab for more courses!
+    description: >-
+      There are many more courses available on Learning Lab for you to check
+      out.
